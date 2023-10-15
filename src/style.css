@@ -52,15 +52,20 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
-  --color-text: #2e353f;
-  --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
+  --color-primary: #ffffff;
+  --color-text: #7d7d7d;
+  --color-text-light: #9198a2;
+  --color-heading: #ffffff;
+  --color-heading-black: rgb(0, 0, 0);
   --color-accent: #d1dce5;
+  --color-heading-yellow:#F5A212;
+  ;
+
 }
 
 /* HTML elements */
+
+
 
 *,
 :after,
@@ -79,6 +84,8 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  background: #041B3E;
+
 }
 
 footer {
@@ -118,7 +125,7 @@ h6 {
 h1 {
   font-weight: var(--fontWeight-black);
   font-size: var(--fontSize-6);
-  color: var(--color-heading-black);
+  color: var(--color-heading-yellow);
 }
 
 h2 {
