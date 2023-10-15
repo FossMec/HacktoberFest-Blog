@@ -54,9 +54,9 @@
   --fontSize-7: 2.986rem;
   --color-primary: #ffffff;
   --color-text: #7d7d7d;
-  --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
+  --color-text-light: #9198a2;
+  --color-heading: #ffffff;
+  --color-heading-black: rgb(0, 0, 0);
   --color-accent: #d1dce5;
   --color-heading-yellow:#F5A212;
   ;
