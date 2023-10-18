@@ -1,5 +1,5 @@
 ---
-title: Introduction!
+title: Introduction to Git!
 date: "2023-10-16T23:46:37.121Z"
 ---
 
